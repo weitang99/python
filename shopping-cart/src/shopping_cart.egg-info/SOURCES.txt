@@ -1,0 +1,10 @@
+pyproject.toml
+src/shopping_cart/_init_.py
+src/shopping_cart/cart.py
+src/shopping_cart/test1.py
+src/shopping_cart.egg-info/PKG-INFO
+src/shopping_cart.egg-info/SOURCES.txt
+src/shopping_cart.egg-info/dependency_links.txt
+src/shopping_cart.egg-info/requires.txt
+src/shopping_cart.egg-info/top_level.txt
+tests/test_cart.py

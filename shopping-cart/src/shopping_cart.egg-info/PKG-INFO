@@ -1,0 +1,7 @@
+Metadata-Version: 2.4
+Name: shopping-cart
+Version: 1.0.0
+Summary: Shopping cart calculation system
+Requires-Python: >=3.9
+Provides-Extra: test
+Requires-Dist: pytest>=7.0; extra == "test"
