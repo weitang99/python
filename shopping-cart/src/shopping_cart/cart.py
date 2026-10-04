@@ -333,12 +333,12 @@ def read_input() -> str:
     return "\n".join(lines)
 
 def main() -> None:
-    # input_text = read_input()
-    input_text = """
-    3*蔬菜:5.98
-    8*餐巾紙:3.20
-    2015.01.01
-    """
+    input_text = read_input()
+    # input_text = """
+    # 3*蔬菜:5.98
+    # 8*餐巾紙:3.20
+    # 2015.01.01
+    # """
 
     try:
         result = calculate(input_text)
